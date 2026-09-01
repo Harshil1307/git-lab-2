@@ -1,1 +1,4 @@
-your details here
+Harshil Deepak Kumar
+4IK25CS064
+DevOpsLab
+Git operations
